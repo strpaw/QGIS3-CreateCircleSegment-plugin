@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/circle_segment" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
